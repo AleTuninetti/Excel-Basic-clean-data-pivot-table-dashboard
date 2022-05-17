@@ -6,7 +6,7 @@ Creación de visualización.
 Cleaning process and dashboard creation in Excel, credits to AlexAnalyst
 
 04/05/2022 
-Pasos 1- Agregar sheets para: editar información original, tabla dinámica (pivot table) y agegar gráficas. 
+Pasos 1- Agregar sheets para: editar información original, tabla dinámica (pivot table), gráficas. 
 2- Revisar/eliminar duplicados (comparo resultado con la hoja original y veo cuanta info se descartó). Unos 26 registros. 
 3- Modificar información que no se entienda (x ej: Yes(Y)-No (N), Single(S)-Married(M), Mal- Female, rangos de edad, etc). 
 4- Verificar en filtros de las columnas que no se repitan mismos textos o valores de celdas, que puedan tener diferencia de espacios (antes o después), may- minusculas, acentos, caracteres especiales, etc 
@@ -17,5 +17,5 @@ Pasos 1- Agregar sheets para: editar información original, tabla dinámica (piv
 
 06/05/2022 
 8- Copio y pego los gráficos en otra hoja, de ahí puedo agregar los segmentadores (slicers). 
-9- Doy formato a los graficos y segmentadores.
+9- Doy formato a los gráficos y segmentadores.
 
