@@ -1,4 +1,4 @@
-# Proyecto2.1_LimpiezaDatos_Excel
+# Proyecto2.1: Limpieza Datos y Tableros en Excel
 
 Excel:
 Proceso de limpieza, ordenamiento y transformación de datos.
