@@ -1,4 +1,4 @@
-# Excel-Basic-clean-data-pivot-table-dashboard
+# Proyecto2.1_LimpiezaDatos_Excel
 
 Excel:
 Proceso de limpieza, ordenamiento y transformación de datos.
